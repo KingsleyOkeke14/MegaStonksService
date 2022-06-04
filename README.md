@@ -1,8 +1,8 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+TODO: This project contains the source code for the Megastonks Webservice and website. The webservice is scalable webAPI build with dotnet Core 5 and deployed to Azure cloud. The webservice is responsible for computing and sending user data, filtering stock and crypto information, real time chat communication and also sending out emails and push notifications to ios devices  
 
 # Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
+TODO: You woudl need to be familiar with the following to dive into the project 
 1.	Dotnet Core 5.0.0 needed to run the program
 2.	Software dependencies [ASPNetCore, EntityFramework, MailKit]
 4.	API references [CoinMarketCap API and FinancialModellingPrep Api]
